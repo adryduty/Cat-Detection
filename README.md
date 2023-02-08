@@ -1,4 +1,4 @@
-# computer-vision-cat-project
+# computer-vision-cat-detection
 
 In this project I trained a yolov5s for detecting my cat in my house. In order to distinguish among it and other objects (e.g. peluche cat, shoes, ...)
 I built a training set with different images (234 images). You can find all the files you need in this repo:
