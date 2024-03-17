@@ -9,3 +9,4 @@ I built a training set with different images (234 images). You can find all the 
 
 ATTENTION: for privacy reasons I decided not to load the zip file with the pictures and the labels together (you just have access to the labels in the csv file). If you want to have access to it, just send me a message on Linkedin (https://www.linkedin.com/in/adriano-ettari-b8741b21b).
 
+The code has been run on colab. Unfortunately, I lost the requirements.txt file, but it is still working with the current version of the libraries that are used (today 17/03/24).
